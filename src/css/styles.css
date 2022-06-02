@@ -10,8 +10,12 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
-  padding-left: 16px;
+  padding-left: 562px;
+  padding-top: 50px;
     padding-right: 16px;
+    background-image: url(/src/image/blank-paper-with-flashlight-and-travel-objects_23-2147604710.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #search-box {
